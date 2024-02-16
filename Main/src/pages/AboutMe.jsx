@@ -1,4 +1,4 @@
-export default function Aboutme() {
+export default function AboutMe() {
   return (
     <div className="container pt-4">
       <p>
