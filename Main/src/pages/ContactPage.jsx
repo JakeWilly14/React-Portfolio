@@ -44,6 +44,7 @@ export default function ContactPage() {
     setEmail('');
     setUserName('');
     setMessage('');
+    setErrorMessage('');
   };
 
   return (
