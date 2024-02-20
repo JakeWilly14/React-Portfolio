@@ -1,7 +1,8 @@
 export default function AboutMe() {
   return (
-    <div className="container pt-4">
-      <p>
+    <div className="container about-me">
+      <img src='headshot.jpg'></img>
+      <p className="text-card">
         Hello, and welcome to my portfolio! My name is Charles Williams and I am
         currently enrolled as a Full-Stack development bootcamp student at
         Kansas University. I have always been interested in computer sciences,

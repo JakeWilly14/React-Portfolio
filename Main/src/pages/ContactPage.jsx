@@ -65,14 +65,15 @@ export default function ContactPage() {
           type="email"
           placeholder="email"
         />
-        <input
+        <input 
+          className="input-message"
           value={message}
           name="message"
           onChange={handleInputChange}
           type="text"
           placeholder="message"
         />
-        <button type="submit">Submit</button>
+        <button className="submit-btn" type="submit">Submit</button>
       </form>
       {errorMessage && (
         <div>

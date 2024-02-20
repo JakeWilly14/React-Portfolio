@@ -7,13 +7,13 @@ export default function ProjectPage() {
     <ProjectList
       projects={[       
         <Link key={1} className="text-light" to="https://github.com/JakeWilly14/Text-Editor">
-          Text Editor
+          <img src='J.A.T.E.png'></img>
         </Link>,
         <Link key={2} className="text-light" to="https://github.com/JakeWilly14/Social-Network-API">
-          Social Network API
+          <img src='socialnetwork.png'></img>
         </Link>,
         <Link key={3} className="text-light" to="https://github.com/JakeWilly14/E-Commerce-Back-End">
-          ECommerce Backend
+          <img src='ecommerce.png'></img>
         </Link>
       ]}
     />
