@@ -1,11 +1,10 @@
-import '../Header.css'
+import '../Footer.css'
 
 export default function Nav({ links }) {
   return (
-    <nav className="navbar">
-      <h1>Jacob Williams</h1>
+    <nav className="footer">
       <div className="container-fluid">
-          <ul className="navbar-nav">
+          <ul className="footer-nav">
             {links.map((link) => link)}
           </ul>
       </div>
