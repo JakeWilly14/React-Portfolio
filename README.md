@@ -2,7 +2,7 @@
   # Web Developer Portfolio
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/512de802-7983-4a65-936f-d93f31bceb3d/deploy-status)](https://app.netlify.com/sites/jacobwilliamsportfolio/deploys)  
   ## Description
   An updated application of my portfolio that using the latest technology with React.js and vite!
   
